@@ -14,3 +14,6 @@ https://medium.com/@ODSC/most-influential-data-science-research-papers-for-2018-
 
 ### Analytics Vidhya 24 ML Projects
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+### Awesome Software Engineering for Machine Learning
+https://github.com/SE-ML/awesome-seml

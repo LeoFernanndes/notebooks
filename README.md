@@ -17,3 +17,6 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 ### Awesome Software Engineering for Machine Learning
 https://github.com/SE-ML/awesome-seml
+
+### Data models
+http://www.databaseanswers.org/data_models/index.htm

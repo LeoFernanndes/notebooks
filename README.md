@@ -20,3 +20,6 @@ https://github.com/SE-ML/awesome-seml
 
 ### Data models
 http://www.databaseanswers.org/data_models/index.htm
+
+### 26 Data Science Interview Questions
+https://medium.com/analytics-vidhya/test-your-skills-26-data-science-interview-questions-answers-69cb2b223e57
